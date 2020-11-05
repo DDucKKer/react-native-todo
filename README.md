@@ -1,1 +1,1 @@
-# react-native-todo
+# Todo app built with React Native
